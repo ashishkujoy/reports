@@ -1,0 +1,335 @@
+[
+  {
+    "filePath": "/lib/testing.js",
+    "messages": [
+      {
+        "ruleId": "semi",
+        "line": 3,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 5,
+        "column": 11,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "ruleId": "semi",
+        "line": 7,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 9,
+        "column": 16,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "ruleId": "semi",
+        "line": 11,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 15,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 19,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 23,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 27,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "max-params",
+        "line": 27,
+        "column": 23,
+        "message": "Function has too many parameters (5). Maximum allowed is 4."
+      },
+      {
+        "ruleId": "semi",
+        "line": 36,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 40,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 45,
+        "column": 22,
+        "message": "Multiple spaces found before 'entry'."
+      },
+      {
+        "ruleId": "semi",
+        "line": 48,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 51,
+        "column": 1,
+        "message": "This line has a length of 100. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 52,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 58,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "curly",
+        "line": 64,
+        "column": 7,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "semi",
+        "line": 69,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 71,
+        "column": 7,
+        "message": "'printFunctionTests' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 74,
+        "column": 1,
+        "message": "This line has a length of 109. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 75,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 77,
+        "column": 58,
+        "message": "'testMessage' is defined but never used."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 78,
+        "column": 24,
+        "message": "Multiple spaces found before 'greenfg'."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 79,
+        "column": 22,
+        "message": "Multiple spaces found before 'redfg'."
+      },
+      {
+        "ruleId": "semi",
+        "line": 83,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 88,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 101,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 103,
+        "column": 7,
+        "message": "'getResult' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 105,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "complexity",
+        "line": 107,
+        "column": 23,
+        "message": "Function has a complexity of 5. Maximum allowed is 4."
+      },
+      {
+        "ruleId": "no-extra-semi",
+        "line": 110,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "no-extra-semi",
+        "line": 114,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 123,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 125,
+        "column": 18,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 125,
+        "column": 58,
+        "message": "'fnName' is defined but never used."
+      },
+      {
+        "ruleId": "no-undef",
+        "line": 127,
+        "column": 52,
+        "message": "'functionName' is not defined."
+      },
+      {
+        "ruleId": "semi",
+        "line": 129,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 135,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/src/vending-machine.js",
+    "messages": [
+      {
+        "ruleId": "semi",
+        "line": 3,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 7,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 9,
+        "column": 45,
+        "message": "There should be no space before ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 9,
+        "column": 45,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "semi",
+        "line": 11,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 13,
+        "column": 6,
+        "message": "Multiple spaces found before 'dispenseCoins'."
+      },
+      {
+        "ruleId": "no-implicit-globals",
+        "line": 18,
+        "column": 3,
+        "message": "Global variable leak, declare the variable if it is intended to be local."
+      },
+      {
+        "ruleId": "no-undef",
+        "line": 18,
+        "column": 8,
+        "message": "'denomination' is not defined."
+      },
+      {
+        "ruleId": "no-undef",
+        "line": 19,
+        "column": 61,
+        "message": "'denomination' is not defined."
+      },
+      {
+        "ruleId": "no-undef",
+        "line": 20,
+        "column": 59,
+        "message": "'denomination' is not defined."
+      },
+      {
+        "ruleId": "semi",
+        "line": 24,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/test/vending-machine-test.js",
+    "messages": [
+      {
+        "ruleId": "no-unused-vars",
+        "line": 5,
+        "column": 7,
+        "message": "'displayTestLog' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 20,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 22,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      }
+    ]
+  }
+]

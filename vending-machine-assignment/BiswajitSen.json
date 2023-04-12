@@ -1,0 +1,317 @@
+[
+  {
+    "filePath": "/lib/testing.js",
+    "messages": [
+      {
+        "ruleId": "func-style",
+        "line": 3,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 7,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 11,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 12,
+        "column": 1,
+        "message": "This line has a length of 100. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 14,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "max-params",
+        "line": 14,
+        "column": 23,
+        "message": "Function has too many parameters (5). Maximum allowed is 4."
+      },
+      {
+        "ruleId": "semi",
+        "line": 23,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 25,
+        "column": 1,
+        "message": "This line has a length of 97. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 31,
+        "column": 1,
+        "message": "This line has a length of 99. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 36,
+        "column": 22,
+        "message": "Multiple spaces found before 'entry'."
+      },
+      {
+        "ruleId": "semi",
+        "line": 39,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 94. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "curly",
+        "line": 46,
+        "column": 27,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "ruleId": "semi",
+        "line": 51,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 53,
+        "column": 1,
+        "message": "This line has a length of 97. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-undefined",
+        "line": 59,
+        "column": 22,
+        "message": "Unexpected use of undefined."
+      },
+      {
+        "ruleId": "semi",
+        "line": 62,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 64,
+        "column": 7,
+        "message": "'printFunctionTests' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 67,
+        "column": 1,
+        "message": "This line has a length of 113. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 68,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 70,
+        "column": 1,
+        "message": "This line has a length of 95. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 72,
+        "column": 7,
+        "message": "'printAllTest' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 75,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 76,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 78,
+        "column": 1,
+        "message": "This line has a length of 94. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 82,
+        "column": 1,
+        "message": "This line has a length of 93. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 82,
+        "column": 46,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 82,
+        "column": 50,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "semi",
+        "line": 83,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 85,
+        "column": 1,
+        "message": "This line has a length of 96. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 87,
+        "column": 7,
+        "message": "'areArrayEqual' is assigned a value but never used."
+      },
+      {
+        "ruleId": "no-extra-semi",
+        "line": 90,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "prefer-const",
+        "line": 92,
+        "column": 7,
+        "message": "'index' is never reassigned. Use 'const' instead."
+      },
+      {
+        "ruleId": "no-extra-semi",
+        "line": 97,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "no-extra-semi",
+        "line": 98,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 101,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 103,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "semi",
+        "line": 107,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/src/vending-machine.js",
+    "messages": [
+      {
+        "ruleId": "semi",
+        "line": 3,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-return-assign",
+        "line": 13,
+        "column": 3,
+        "message": "Return statement should not contain assignment."
+      },
+      {
+        "ruleId": "semi",
+        "line": 15,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/test/vending-machine-test.js",
+    "messages": [
+      {
+        "ruleId": "comma-spacing",
+        "line": 5,
+        "column": 65,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 6,
+        "column": 64,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 6,
+        "column": 67,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 7,
+        "column": 71,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 8,
+        "column": 71,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "comma-spacing",
+        "line": 9,
+        "column": 76,
+        "message": "A space is required after ','."
+      },
+      {
+        "ruleId": "semi",
+        "line": 14,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 16,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      }
+    ]
+  }
+]

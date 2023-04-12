@@ -1,0 +1,353 @@
+[
+  {
+    "filePath": "/lib/testing.js",
+    "messages": [
+      {
+        "ruleId": "func-style",
+        "line": 1,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 5,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 9,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "semi",
+        "line": 15,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multi-spaces",
+        "line": 18,
+        "column": 9,
+        "message": "Multiple spaces found before 'style'."
+      },
+      {
+        "ruleId": "semi",
+        "line": 19,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 21,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 22,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 22,
+        "column": 10,
+        "message": "'print' is defined but never used."
+      },
+      {
+        "ruleId": "no-extra-parens",
+        "line": 23,
+        "column": 22,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 26,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 29,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 31,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 32,
+        "column": 7,
+        "message": "'repeatSymbol' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 34,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 36,
+        "column": 7,
+        "message": "'newline' is assigned a value but never used."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 37,
+        "column": 7,
+        "message": "'space' is assigned a value but never used."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 38,
+        "column": 7,
+        "message": "'star' is assigned a value but never used."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 39,
+        "column": 7,
+        "message": "'hyphen' is assigned a value but never used."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 41,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 43,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 49,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "semi-spacing",
+        "line": 57,
+        "column": 20,
+        "message": "Unexpected whitespace before semicolon."
+      },
+      {
+        "ruleId": "semi-spacing",
+        "line": 57,
+        "column": 38,
+        "message": "Unexpected whitespace before semicolon."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 65,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "no-shadow",
+        "line": 66,
+        "column": 9,
+        "message": "'newline' is already declared in the upper scope on line 36 column 7."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 67,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 71,
+        "column": 1,
+        "message": "This line has a length of 83. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "func-style",
+        "line": 75,
+        "column": 1,
+        "message": "Expected a function expression."
+      },
+      {
+        "ruleId": "no-shadow",
+        "line": 76,
+        "column": 9,
+        "message": "'newline' is already declared in the upper scope on line 36 column 7."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 77,
+        "column": 1,
+        "message": "This line has a length of 127. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-extra-parens",
+        "line": 81,
+        "column": 18,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "ruleId": "semi-spacing",
+        "line": 87,
+        "column": 24,
+        "message": "Unexpected whitespace before semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 90,
+        "column": 1,
+        "message": "Too many blank lines at the end of file. Max of 1 allowed."
+      }
+    ]
+  },
+  {
+    "filePath": "/src/vending-machine.js",
+    "messages": [
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 2,
+        "column": 1,
+        "message": "Too many blank lines at the beginning of file. Max of 1 allowed."
+      },
+      {
+        "ruleId": "prefer-const",
+        "line": 6,
+        "column": 12,
+        "message": "'key' is never reassigned. Use 'const' instead."
+      },
+      {
+        "ruleId": "semi",
+        "line": 11,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 15,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "prefer-const",
+        "line": 23,
+        "column": 12,
+        "message": "'denomination' is never reassigned. Use 'const' instead."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 24,
+        "column": 1,
+        "message": "This line has a length of 88. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/test/vending-machine-test.js",
+    "messages": [
+      {
+        "ruleId": "no-extra-parens",
+        "line": 5,
+        "column": 30,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "ruleId": "semi",
+        "line": 6,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 8,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 12,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 12,
+        "column": 59,
+        "message": "There should be no space before ']'."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 13,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 13,
+        "column": 62,
+        "message": "There should be no space before ']'."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 14,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 15,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 16,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 17,
+        "column": 58,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 18,
+        "column": 57,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "array-bracket-spacing",
+        "line": 19,
+        "column": 58,
+        "message": "There should be no space after '['."
+      },
+      {
+        "ruleId": "semi",
+        "line": 20,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-multiple-empty-lines",
+        "line": 24,
+        "column": 1,
+        "message": "Too many blank lines at the end of file. Max of 1 allowed."
+      }
+    ]
+  }
+]

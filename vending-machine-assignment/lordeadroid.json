@@ -1,0 +1,107 @@
+[
+  {
+    "filePath": "/lib/testing-framework.js",
+    "messages": [
+      {
+        "ruleId": "semi",
+        "line": 10,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 20,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "max-len",
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 86. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "semi",
+        "line": 36,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 38,
+        "column": 7,
+        "message": "'displayHeading' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 42,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 44,
+        "column": 7,
+        "message": "'onePlus' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 46,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "ruleId": "no-unused-vars",
+        "line": 48,
+        "column": 7,
+        "message": "'displaySummary' is assigned a value but never used."
+      },
+      {
+        "ruleId": "semi",
+        "line": 56,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/src/vending-machine.js",
+    "messages": [
+      {
+        "ruleId": "max-len",
+        "line": 4,
+        "column": 1,
+        "message": "This line has a length of 93. Maximum allowed is 80."
+      },
+      {
+        "ruleId": "no-param-reassign",
+        "line": 8,
+        "column": 5,
+        "message": "Assignment to function parameter 'amount'."
+      },
+      {
+        "ruleId": "semi",
+        "line": 12,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  },
+  {
+    "filePath": "/test/vending-machine-test.js",
+    "messages": [
+      {
+        "ruleId": "semi",
+        "line": 15,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ]
+  }
+]
