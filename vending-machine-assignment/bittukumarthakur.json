@@ -1,149 +1,307 @@
-[
-  {
-    "filePath": "/lib/testing.js",
-    "messages": [
+{
+  "voilations": {
+    "max-len": [
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "max-len",
         "line": 1,
         "column": 1,
         "message": "This line has a length of 111. Maximum allowed is 80."
-      },
+      }
+    ],
+    "semi": [
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 8,
         "column": 31,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 13,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 17,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 21,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 29,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-multi-spaces",
-        "line": 32,
-        "column": 8,
-        "message": "Multiple spaces found before 'modifiedmessage'."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 38,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "func-style",
-        "line": 40,
-        "column": 1,
-        "message": "Expected a function expression."
-      },
-      {
-        "ruleId": "no-multi-spaces",
-        "line": 41,
-        "column": 37,
-        "message": "Multiple spaces found before '\"\\033[0m\"'."
-      },
-      {
-        "ruleId": "no-multiple-empty-lines",
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
         "line": 48,
-        "column": 1,
-        "message": "Too many blank lines at the end of file. Max of 1 allowed."
-      }
-    ]
-  },
-  {
-    "filePath": "/src/vending-machine.js",
-    "messages": [
+        "column": 2,
+        "message": "Missing semicolon."
+      },
       {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 57,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 3,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "prefer-const",
-        "line": 10,
-        "column": 12,
-        "message": "'coin' is never reassigned. Use 'const' instead."
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 14,
+        "column": 2,
+        "message": "Missing semicolon."
       },
       {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 20,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 33,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 48,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 15,
+        "column": 44,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 21,
+        "column": 53,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 26,
+        "column": 53,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 32,
+        "column": 54,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 44,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 62,
+        "column": 83,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 63,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ],
+    "no-multi-spaces": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 23,
+        "column": 59,
+        "message": "Multiple spaces found before 'message'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 33,
+        "column": 8,
+        "message": "Multiple spaces found before 'modifiedmessage'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 52,
+        "column": 8,
+        "message": "Multiple spaces found before 'modifiedmessage'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 60,
+        "column": 37,
+        "message": "Multiple spaces found before '\"\\033[0m\"'."
+      }
+    ],
+    "no-extra-semi": [
+      {
+        "filepath": "/lib/testing.js",
         "ruleId": "no-extra-semi",
-        "line": 16,
+        "line": 45,
         "column": 6,
         "message": "Unnecessary semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "no-extra-semi",
-        "line": 17,
+        "line": 46,
         "column": 4,
         "message": "Unnecessary semicolon."
       },
       {
-        "ruleId": "semi",
-        "line": 18,
-        "column": 2,
-        "message": "Missing semicolon."
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 10,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 11,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 30,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 46,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 47,
+        "column": 4,
+        "message": "Unnecessary semicolon."
       }
-    ]
-  },
-  {
-    "filePath": "/test/vending-machine-test.js",
-    "messages": [
+    ],
+    "func-style": [
       {
-        "ruleId": "semi",
-        "line": 7,
-        "column": 49,
-        "message": "Missing semicolon."
+        "filepath": "/lib/testing.js",
+        "ruleId": "func-style",
+        "line": 59,
+        "column": 1,
+        "message": "Expected a function expression."
+      }
+    ],
+    "comma-spacing": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "comma-spacing",
+        "line": 18,
+        "column": 30,
+        "message": "A space is required after ','."
+      }
+    ],
+    "prefer-const": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 24,
+        "column": 7,
+        "message": "'sortedList' is never reassigned. Use 'const' instead."
       },
       {
-        "ruleId": "semi",
-        "line": 9,
-        "column": 42,
-        "message": "Missing semicolon."
-      },
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 40,
+        "column": 12,
+        "message": "'coin' is never reassigned. Use 'const' instead."
+      }
+    ],
+    "id-length": [
       {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "id-length",
+        "line": 26,
+        "column": 12,
+        "message": "Identifier name 'i' is too short (< 2)."
+      }
+    ],
+    "no-multiple-empty-lines": [
+      {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "no-multiple-empty-lines",
-        "line": 14,
+        "line": 20,
         "column": 1,
         "message": "More than 1 blank line not allowed."
       },
       {
-        "ruleId": "semi",
-        "line": 15,
-        "column": 51,
-        "message": "Missing semicolon."
-      },
-      {
-        "ruleId": "semi",
-        "line": 20,
-        "column": 51,
-        "message": "Missing semicolon."
-      },
-      {
-        "ruleId": "semi",
-        "line": 26,
-        "column": 52,
-        "message": "Missing semicolon."
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-multiple-empty-lines",
+        "line": 46,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
       }
     ]
-  }
-]
+  },
+  "ruleIdToVoilationCount": {
+    "max-len": 1,
+    "semi": 20,
+    "no-multi-spaces": 4,
+    "no-extra-semi": 7,
+    "func-style": 1,
+    "comma-spacing": 1,
+    "prefer-const": 2,
+    "id-length": 1,
+    "no-multiple-empty-lines": 2
+  },
+  "totalVoilations": 39
+}

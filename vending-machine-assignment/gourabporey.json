@@ -1,269 +1,319 @@
-[
-  {
-    "filePath": "/lib/testing.js",
-    "messages": [
+{
+  "voilations": {
+    "semi": [
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 3,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 7,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 11,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 15,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 19,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 23,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "max-len",
-        "line": 26,
-        "column": 1,
-        "message": "This line has a length of 98. Maximum allowed is 80."
-      },
-      {
-        "ruleId": "no-extra-parens",
-        "line": 26,
-        "column": 10,
-        "message": "Unnecessary parentheses around expression."
-      },
-      {
-        "ruleId": "no-extra-parens",
-        "line": 26,
-        "column": 56,
-        "message": "Unnecessary parentheses around expression."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 27,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 34,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 38,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-multi-spaces",
-        "line": 42,
-        "column": 16,
-        "message": "Multiple spaces found before 'redFg'."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 44,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 52,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 60,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 64,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-extra-parens",
-        "line": 68,
-        "column": 23,
-        "message": "Unnecessary parentheses around expression."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 69,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 73,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 82,
         "column": 4,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 87,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 91,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-multi-spaces",
-        "line": 94,
-        "column": 6,
-        "message": "Multiple spaces found before 'message'."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 98,
         "column": 2,
         "message": "Missing semicolon."
-      }
-    ]
-  },
-  {
-    "filePath": "/src/vending-machine.js",
-    "messages": [
+      },
       {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 6,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "id-length",
-        "line": 12,
-        "column": 12,
-        "message": "Identifier name 'i' is too short (< 2)."
-      },
-      {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 18,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 22,
         "column": 2,
         "message": "Missing semicolon."
-      }
-    ]
-  },
-  {
-    "filePath": "/test/vending-machine-test.js",
-    "messages": [
+      },
       {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 13,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ],
+    "max-len": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 98. Maximum allowed is 80."
+      }
+    ],
+    "no-extra-parens": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 26,
+        "column": 10,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 26,
+        "column": 56,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 68,
+        "column": 23,
+        "message": "Unnecessary parentheses around expression."
+      }
+    ],
+    "no-multi-spaces": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 42,
+        "column": 16,
+        "message": "Multiple spaces found before 'redFg'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 94,
+        "column": 6,
+        "message": "Multiple spaces found before 'message'."
+      }
+    ],
+    "id-length": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "id-length",
+        "line": 12,
+        "column": 12,
+        "message": "Identifier name 'i' is too short (< 2)."
+      }
+    ],
+    "comma-spacing": [
+      {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 6,
         "column": 57,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 8,
         "column": 57,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 57,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 59,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 58,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 60,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 58,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 60,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 62,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 58,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 60,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 62,
         "message": "A space is required after ','."
-      },
-      {
-        "ruleId": "semi",
-        "line": 13,
-        "column": 2,
-        "message": "Missing semicolon."
       }
     ]
-  }
-]
+  },
+  "ruleIdToVoilationCount": {
+    "semi": 23,
+    "max-len": 1,
+    "no-extra-parens": 3,
+    "no-multi-spaces": 2,
+    "id-length": 1,
+    "comma-spacing": 12
+  },
+  "totalVoilations": 42
+}

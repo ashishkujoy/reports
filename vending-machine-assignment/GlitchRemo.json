@@ -1,497 +1,597 @@
-[
-  {
-    "filePath": "/lib/testing.js",
-    "messages": [
+{
+  "voilations": {
+    "semi": [
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 3,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 7,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 11,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 15,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 19,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 23,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-unused-vars",
-        "line": 25,
-        "column": 7,
-        "message": "'printHeadline' is assigned a value but never used."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 27,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-extra-parens",
-        "line": 34,
-        "column": 20,
-        "message": "Unnecessary parentheses around expression."
-      },
-      {
-        "ruleId": "no-extra-parens",
-        "line": 34,
-        "column": 56,
-        "message": "Unnecessary parentheses around expression."
-      },
-      {
-        "ruleId": "semi-spacing",
-        "line": 34,
-        "column": 78,
-        "message": "Unexpected whitespace before semicolon."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 35,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "complexity",
-        "line": 37,
-        "column": 17,
-        "message": "Function has a complexity of 5. Maximum allowed is 4."
-      },
-      {
-        "ruleId": "curly",
-        "line": 38,
-        "column": 49,
-        "message": "Expected { after 'if' condition."
-      },
-      {
-        "ruleId": "curly",
-        "line": 40,
-        "column": 38,
-        "message": "Expected { after 'if' condition."
-      },
-      {
-        "ruleId": "curly",
-        "line": 42,
-        "column": 30,
-        "message": "Expected { after 'if' condition."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 45,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 49,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 56,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 61,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 66,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 77,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-shadow",
-        "line": 80,
-        "column": 9,
-        "message": "'passedAssertions' is already declared in the upper scope on line 58 column 5."
-      },
-      {
-        "ruleId": "no-shadow",
-        "line": 81,
-        "column": 9,
-        "message": "'totalAssertions' is already declared in the upper scope on line 63 column 5."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 83,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "max-len",
-        "line": 86,
-        "column": 1,
-        "message": "This line has a length of 91. Maximum allowed is 80."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 87,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "no-unused-vars",
-        "line": 89,
-        "column": 7,
-        "message": "'assertArrayEqual' is assigned a value but never used."
-      },
-      {
+        "filepath": "/lib/testing.js",
         "ruleId": "semi",
         "line": 91,
         "column": 2,
         "message": "Missing semicolon."
-      }
-    ]
-  },
-  {
-    "filePath": "/src/vending-machine.js",
-    "messages": [
+      },
       {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 3,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
-        "ruleId": "prefer-const",
-        "line": 10,
-        "column": 11,
-        "message": "'currentDenomination' is never reassigned. Use 'const' instead."
-      },
-      {
+        "filepath": "/src/vending-machine.js",
         "ruleId": "semi",
         "line": 17,
         "column": 2,
         "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 18,
+        "column": 2,
+        "message": "Missing semicolon."
       }
-    ]
-  },
-  {
-    "filePath": "/test/vending-machine-test.js",
-    "messages": [
+    ],
+    "no-unused-vars": [
       {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 25,
+        "column": 7,
+        "message": "'printHeadline' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 89,
+        "column": 7,
+        "message": "'assertArrayEqual' is assigned a value but never used."
+      }
+    ],
+    "no-extra-parens": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 34,
+        "column": 20,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 34,
+        "column": 56,
+        "message": "Unnecessary parentheses around expression."
+      }
+    ],
+    "semi-spacing": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi-spacing",
+        "line": 34,
+        "column": 78,
+        "message": "Unexpected whitespace before semicolon."
+      }
+    ],
+    "complexity": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "complexity",
+        "line": 37,
+        "column": 17,
+        "message": "Function has a complexity of 5. Maximum allowed is 4."
+      }
+    ],
+    "curly": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "curly",
+        "line": 38,
+        "column": 49,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "curly",
+        "line": 40,
+        "column": 38,
+        "message": "Expected { after 'if' condition."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "curly",
+        "line": 42,
+        "column": 30,
+        "message": "Expected { after 'if' condition."
+      }
+    ],
+    "no-shadow": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-shadow",
+        "line": 80,
+        "column": 9,
+        "message": "'passedAssertions' is already declared in the upper scope on line 58 column 5."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-shadow",
+        "line": 81,
+        "column": 9,
+        "message": "'totalAssertions' is already declared in the upper scope on line 63 column 5."
+      }
+    ],
+    "max-len": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 86,
+        "column": 1,
+        "message": "This line has a length of 91. Maximum allowed is 80."
+      }
+    ],
+    "prefer-const": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 10,
+        "column": 11,
+        "message": "'currentDenomination' is never reassigned. Use 'const' instead."
+      }
+    ],
+    "comma-spacing": [
+      {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 7,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 7,
         "column": 27,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 7,
         "column": 32,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 8,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 8,
         "column": 27,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 8,
         "column": 32,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 27,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 30,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 9,
         "column": 34,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 27,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 30,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 10,
         "column": 34,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 27,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 30,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 32,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 11,
         "column": 36,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 31,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 33,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 35,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 12,
         "column": 40,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 31,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 33,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 35,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 13,
         "column": 40,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 31,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 33,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 35,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 14,
         "column": 40,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 15,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 15,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 15,
         "column": 31,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 15,
         "column": 35,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 16,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 16,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 16,
         "column": 34,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 17,
         "column": 11,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 17,
         "column": 28,
         "message": "A space is required after ','."
       },
       {
+        "filepath": "/test/vending-machine-test.js",
         "ruleId": "comma-spacing",
         "line": 17,
         "column": 34,
         "message": "A space is required after ','."
-      },
-      {
-        "ruleId": "semi",
-        "line": 18,
-        "column": 2,
-        "message": "Missing semicolon."
       }
     ]
-  }
-]
+  },
+  "ruleIdToVoilationCount": {
+    "semi": 20,
+    "no-unused-vars": 2,
+    "no-extra-parens": 2,
+    "semi-spacing": 1,
+    "complexity": 1,
+    "curly": 3,
+    "no-shadow": 2,
+    "max-len": 1,
+    "prefer-const": 1,
+    "comma-spacing": 47
+  },
+  "totalVoilations": 80
+}
