@@ -1,0 +1,298 @@
+{
+  "voilations": {
+    "semi": [
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 10,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 20,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 36,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 42,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 46,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 56,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 74,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "semi",
+        "line": 81,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 3,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 7,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 19,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 33,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 45,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 59,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 11,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 17,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 24,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 30,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 37,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 44,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 48,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ],
+    "max-len": [
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "max-len",
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 86. Maximum allowed is 80."
+      }
+    ],
+    "no-unused-vars": [
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "no-unused-vars",
+        "line": 31,
+        "column": 7,
+        "message": "'assertEquals' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "no-unused-vars",
+        "line": 38,
+        "column": 7,
+        "message": "'displayHeading' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "no-unused-vars",
+        "line": 44,
+        "column": 7,
+        "message": "'onePlus' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "no-unused-vars",
+        "line": 48,
+        "column": 7,
+        "message": "'displaySummary' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 4,
+        "column": 7,
+        "message": "'multipleDenominations' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 13,
+        "column": 7,
+        "message": "'randomDenominations' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 32,
+        "column": 7,
+        "message": "'testMaxElement' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 39,
+        "column": 7,
+        "message": "'testMaxSort' is assigned a value but never used."
+      }
+    ],
+    "complexity": [
+      {
+        "filepath": "/lib/testing-framework.js",
+        "ruleId": "complexity",
+        "line": 58,
+        "column": 23,
+        "message": "Function has a complexity of 5. Maximum allowed is 4."
+      }
+    ],
+    "prefer-const": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 22,
+        "column": 7,
+        "message": "'sorted' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 23,
+        "column": 7,
+        "message": "'unsorted' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 26,
+        "column": 9,
+        "message": "'max' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 28,
+        "column": 9,
+        "message": "'index' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 37,
+        "column": 7,
+        "message": "'coins' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 52,
+        "column": 12,
+        "message": "'coin' is never reassigned. Use 'const' instead."
+      }
+    ],
+    "no-param-reassign": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-param-reassign",
+        "line": 41,
+        "column": 5,
+        "message": "Assignment to function parameter 'amount'."
+      }
+    ]
+  },
+  "ruleIdToVoilationCount": {
+    "semi": 22,
+    "max-len": 1,
+    "no-unused-vars": 8,
+    "complexity": 1,
+    "prefer-const": 6,
+    "no-param-reassign": 1
+  },
+  "totalVoilations": 39
+}
