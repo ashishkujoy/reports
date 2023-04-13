@@ -1,0 +1,14 @@
+{
+  "voilations": {
+    "undefined": [
+      {
+        "filepath": "",
+        "message": "File ignored by default.  Use a negated ignore pattern (like \"--ignore-pattern '!<relative/path/to/filename>'\") to override."
+      }
+    ]
+  },
+  "ruleIdToVoilationCount": {
+    "undefined": 1
+  },
+  "totalVoilations": 1
+}
