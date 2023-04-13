@@ -1,0 +1,699 @@
+{
+  "voilations": {
+    "max-len": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 1,
+        "column": 1,
+        "message": "This line has a length of 94. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 7,
+        "column": 1,
+        "message": "This line has a length of 95. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 9,
+        "column": 1,
+        "message": "This line has a length of 98. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 18,
+        "column": 1,
+        "message": "This line has a length of 95. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 20,
+        "column": 1,
+        "message": "This line has a length of 118. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "max-len",
+        "line": 23,
+        "column": 1,
+        "message": "This line has a length of 84. Maximum allowed is 80."
+      }
+    ],
+    "indent": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 5,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 6,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 7,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 9,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 10,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 16,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 17,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 18,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 20,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 21,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 26,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 27,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 28,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 29,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 30,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 31,
+        "column": 1,
+        "message": "Expected indentation of 6 spaces but found 3 tabs."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 32,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 33,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "indent",
+        "line": 34,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 2,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 3,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 4,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 5,
+        "column": 1,
+        "message": "Expected indentation of 6 spaces but found 3 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 6,
+        "column": 1,
+        "message": "Expected indentation of 8 spaces but found 4 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 7,
+        "column": 1,
+        "message": "Expected indentation of 8 spaces but found 4 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 8,
+        "column": 1,
+        "message": "Expected indentation of 8 spaces but found 4 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 9,
+        "column": 1,
+        "message": "Expected indentation of 6 spaces but found 3 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 10,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 11,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 12,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 18,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 19,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 20,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 22,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 23,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 24,
+        "column": 1,
+        "message": "Expected indentation of 4 spaces but found 2 tabs."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 25,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "indent",
+        "line": 26,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 11,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 12,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 13,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 14,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 15,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 16,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 17,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 18,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 19,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 20,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 21,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 22,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 23,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 24,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "indent",
+        "line": 30,
+        "column": 1,
+        "message": "Expected indentation of 2 spaces but found 1 tab."
+      }
+    ],
+    "no-extra-parens": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 9,
+        "column": 17,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 20,
+        "column": 17,
+        "message": "Unnecessary parentheses around expression."
+      }
+    ],
+    "semi": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 11,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 22,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 35,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 13,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 28,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 1,
+        "column": 60,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 2,
+        "column": 45,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 11,
+        "column": 110,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 12,
+        "column": 120,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 13,
+        "column": 121,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 14,
+        "column": 127,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 15,
+        "column": 127,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 16,
+        "column": 129,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 17,
+        "column": 129,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 18,
+        "column": 136,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 19,
+        "column": 137,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 20,
+        "column": 137,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 21,
+        "column": 137,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 22,
+        "column": 129,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 23,
+        "column": 129,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 24,
+        "column": 129,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 25,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 31,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ],
+    "no-multiple-empty-lines": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multiple-empty-lines",
+        "line": 24,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-multiple-empty-lines",
+        "line": 32,
+        "column": 1,
+        "message": "Too many blank lines at the end of file. Max of 1 allowed."
+      }
+    ],
+    "eqeqeq": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "eqeqeq",
+        "line": 26,
+        "column": 20,
+        "message": "Expected '!==' and instead saw '!='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "eqeqeq",
+        "line": 30,
+        "column": 21,
+        "message": "Expected '!==' and instead saw '!='."
+      }
+    ],
+    "space-infix-ops": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "space-infix-ops",
+        "line": 23,
+        "column": 48,
+        "message": "Operator '/' must be spaced."
+      }
+    ],
+    "no-unused-vars": [
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 5,
+        "column": 7,
+        "message": "'indexOfMax' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 6,
+        "column": 7,
+        "message": "'removeElement' is assigned a value but never used."
+      }
+    ],
+    "comma-spacing": [
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "comma-spacing",
+        "line": 30,
+        "column": 22,
+        "message": "A space is required after ','."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "comma-spacing",
+        "line": 30,
+        "column": 24,
+        "message": "A space is required after ','."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "comma-spacing",
+        "line": 30,
+        "column": 41,
+        "message": "A space is required after ','."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "comma-spacing",
+        "line": 30,
+        "column": 43,
+        "message": "A space is required after ','."
+      }
+    ]
+  },
+  "ruleIdToVoilationCount": {
+    "max-len": 6,
+    "indent": 53,
+    "no-extra-parens": 2,
+    "semi": 23,
+    "no-multiple-empty-lines": 2,
+    "eqeqeq": 2,
+    "space-infix-ops": 1,
+    "no-unused-vars": 2,
+    "comma-spacing": 4
+  },
+  "totalVoilations": 95
+}

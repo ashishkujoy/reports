@@ -1,0 +1,812 @@
+{
+  "voilations": {
+    "max-len": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 1,
+        "column": 1,
+        "message": "This line has a length of 120. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 35,
+        "column": 1,
+        "message": "This line has a length of 122. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 61,
+        "column": 1,
+        "message": "This line has a length of 98. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 69,
+        "column": 1,
+        "message": "This line has a length of 98. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 79,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 95,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 102,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 163,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 183,
+        "column": 1,
+        "message": "This line has a length of 91. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 184,
+        "column": 1,
+        "message": "This line has a length of 107. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 185,
+        "column": 1,
+        "message": "This line has a length of 95. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-len",
+        "line": 193,
+        "column": 1,
+        "message": "This line has a length of 123. Maximum allowed is 80."
+      }
+    ],
+    "space-infix-ops": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 4,
+        "column": 17,
+        "message": "Operator '+' must be spaced."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 4,
+        "column": 28,
+        "message": "Operator '+' must be spaced."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 4,
+        "column": 32,
+        "message": "Operator '+' must be spaced."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 4,
+        "column": 37,
+        "message": "Operator '+' must be spaced."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 32,
+        "column": 43,
+        "message": "Operator '+' must be spaced."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "space-infix-ops",
+        "line": 32,
+        "column": 48,
+        "message": "Operator '+' must be spaced."
+      }
+    ],
+    "semi": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 5,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 9,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 13,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 17,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 21,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 25,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 33,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 53,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 62,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 66,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 70,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 77,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 85,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 93,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 97,
+        "column": 61,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 106,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 110,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 119,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 123,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 128,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 135,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 142,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 154,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "semi",
+        "line": 161,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 3,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 7,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 18,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 33,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 48,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 56,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "semi",
+        "line": 60,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "semi",
+        "line": 36,
+        "column": 2,
+        "message": "Missing semicolon."
+      }
+    ],
+    "no-unused-vars": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 27,
+        "column": 7,
+        "message": "'printNewline' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 56,
+        "column": 7,
+        "message": "'isApproximatelySame' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 98,
+        "column": 5,
+        "message": "'totalAssertions' is assigned a value but never used."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-unused-vars",
+        "line": 99,
+        "column": 5,
+        "message": "'passedAssertions' is assigned a value but never used."
+      },
+      {
+        "filepath": "/test/vending-machine-test.js",
+        "ruleId": "no-unused-vars",
+        "line": 7,
+        "column": 7,
+        "message": "'groupingTestLog' is assigned a value but never used."
+      }
+    ],
+    "max-statements": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-statements",
+        "line": 37,
+        "column": 23,
+        "message": "Function has too many statements (11). Maximum allowed is 10."
+      }
+    ],
+    "complexity": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "complexity",
+        "line": 37,
+        "column": 23,
+        "message": "Function has a complexity of 5. Maximum allowed is 4."
+      }
+    ],
+    "eqeqeq": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "eqeqeq",
+        "line": 38,
+        "column": 13,
+        "message": "Expected '===' and instead saw '=='."
+      }
+    ],
+    "no-extra-semi": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-semi",
+        "line": 44,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-semi",
+        "line": 49,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-semi",
+        "line": 50,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 15,
+        "column": 6,
+        "message": "Unnecessary semicolon."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-semi",
+        "line": 16,
+        "column": 4,
+        "message": "Unnecessary semicolon."
+      }
+    ],
+    "id-length": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "id-length",
+        "line": 46,
+        "column": 12,
+        "message": "Identifier name 'i' is too short (< 2)."
+      }
+    ],
+    "no-multiple-empty-lines": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multiple-empty-lines",
+        "line": 55,
+        "column": 1,
+        "message": "More than 1 blank line not allowed."
+      }
+    ],
+    "no-extra-parens": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 61,
+        "column": 10,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 61,
+        "column": 56,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 69,
+        "column": 10,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 69,
+        "column": 56,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-extra-parens",
+        "line": 127,
+        "column": 34,
+        "message": "Unnecessary parentheses around expression."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-extra-parens",
+        "line": 44,
+        "column": 41,
+        "message": "Unnecessary parentheses around expression."
+      }
+    ],
+    "no-multi-spaces": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 64,
+        "column": 20,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 68,
+        "column": 19,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 72,
+        "column": 13,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 81,
+        "column": 29,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 83,
+        "column": 16,
+        "message": "Multiple spaces found before 'redFg'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 87,
+        "column": 30,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 104,
+        "column": 25,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 108,
+        "column": 26,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 125,
+        "column": 27,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 130,
+        "column": 13,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 137,
+        "column": 18,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 147,
+        "column": 36,
+        "message": "Multiple spaces found before '==='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 156,
+        "column": 25,
+        "message": "Multiple spaces found before '='."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-multi-spaces",
+        "line": 157,
+        "column": 6,
+        "message": "Multiple spaces found before 'message'."
+      }
+    ],
+    "prefer-const": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "prefer-const",
+        "line": 98,
+        "column": 5,
+        "message": "'totalAssertions' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "prefer-const",
+        "line": 99,
+        "column": 5,
+        "message": "'passedAssertions' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 26,
+        "column": 9,
+        "message": "'currentMax' is never reassigned. Use 'const' instead."
+      },
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "prefer-const",
+        "line": 27,
+        "column": 9,
+        "message": "'indexOfCurrentMax' is never reassigned. Use 'const' instead."
+      }
+    ],
+    "max-params": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "max-params",
+        "line": 112,
+        "column": 23,
+        "message": "Function has too many parameters (5). Maximum allowed is 4."
+      }
+    ],
+    "key-spacing": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "key-spacing",
+        "line": 114,
+        "column": 11,
+        "message": "Extra space after key 'result'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "key-spacing",
+        "line": 115,
+        "column": 13,
+        "message": "Extra space after key 'expected'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "key-spacing",
+        "line": 116,
+        "column": 11,
+        "message": "Extra space after key 'actual'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "key-spacing",
+        "line": 117,
+        "column": 17,
+        "message": "Extra space after key 'functionName'."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "key-spacing",
+        "line": 118,
+        "column": 12,
+        "message": "Extra space after key 'message'."
+      }
+    ],
+    "no-shadow": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-shadow",
+        "line": 144,
+        "column": 34,
+        "message": "'testLog' is already declared in the upper scope on line 100 column 7."
+      }
+    ],
+    "no-implicit-globals": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-implicit-globals",
+        "line": 146,
+        "column": 3,
+        "message": "Global variable leak, declare the variable if it is intended to be local."
+      }
+    ],
+    "no-undef": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undef",
+        "line": 146,
+        "column": 8,
+        "message": "'object' is not defined."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undef",
+        "line": 147,
+        "column": 24,
+        "message": "'object' is not defined."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undef",
+        "line": 148,
+        "column": 22,
+        "message": "'object' is not defined."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undef",
+        "line": 151,
+        "column": 20,
+        "message": "'object' is not defined."
+      },
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undef",
+        "line": 151,
+        "column": 38,
+        "message": "'object' is not defined."
+      }
+    ],
+    "no-undefined": [
+      {
+        "filepath": "/lib/testing.js",
+        "ruleId": "no-undefined",
+        "line": 147,
+        "column": 42,
+        "message": "Unexpected use of undefined."
+      }
+    ],
+    "no-param-reassign": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "no-param-reassign",
+        "line": 38,
+        "column": 3,
+        "message": "Assignment to function parameter 'denominationList'."
+      }
+    ],
+    "camelcase": [
+      {
+        "filepath": "/src/vending-machine.js",
+        "ruleId": "camelcase",
+        "line": 58,
+        "column": 46,
+        "message": "Identifier 'denomination_list' is not in camel case."
+      }
+    ]
+  },
+  "ruleIdToVoilationCount": {
+    "max-len": 12,
+    "space-infix-ops": 6,
+    "semi": 33,
+    "no-unused-vars": 5,
+    "max-statements": 1,
+    "complexity": 1,
+    "eqeqeq": 1,
+    "no-extra-semi": 5,
+    "id-length": 1,
+    "no-multiple-empty-lines": 1,
+    "no-extra-parens": 6,
+    "no-multi-spaces": 14,
+    "prefer-const": 4,
+    "max-params": 1,
+    "key-spacing": 5,
+    "no-shadow": 1,
+    "no-implicit-globals": 1,
+    "no-undef": 5,
+    "no-undefined": 1,
+    "no-param-reassign": 1,
+    "camelcase": 1
+  },
+  "totalVoilations": 106
+}
