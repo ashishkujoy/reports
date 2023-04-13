@@ -120,21 +120,21 @@
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "semi",
-        "line": 23,
+        "line": 20,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "semi",
-        "line": 39,
+        "line": 36,
         "column": 2,
         "message": "Missing semicolon."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "semi",
-        "line": 51,
+        "line": 48,
         "column": 2,
         "message": "Missing semicolon."
       },
@@ -198,6 +198,90 @@
         "filepath": "/lib/styling-utils.js",
         "ruleId": "semi",
         "line": 23,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 10,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 22,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 29,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 44,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 49,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 52,
+        "column": 53,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 53,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 65,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 71,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 77,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 83,
+        "column": 2,
+        "message": "Missing semicolon."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "semi",
+        "line": 89,
         "column": 2,
         "message": "Missing semicolon."
       },
@@ -285,14 +369,77 @@
         "ruleId": "max-len",
         "line": 16,
         "column": 1,
-        "message": "This line has a length of 121. Maximum allowed is 80."
+        "message": "This line has a length of 118. Maximum allowed is 80."
       },
       {
-        "filepath": "/lib/array-utils.js",
+        "filepath": "/lib/testing-utilities.js",
         "ruleId": "max-len",
-        "line": 18,
+        "line": 8,
+        "column": 1,
+        "message": "This line has a length of 86. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 12,
+        "column": 1,
+        "message": "This line has a length of 83. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 15,
+        "column": 1,
+        "message": "This line has a length of 89. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 26,
+        "column": 1,
+        "message": "This line has a length of 88. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 60,
+        "column": 1,
+        "message": "This line has a length of 86. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 68,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 73,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 76,
+        "column": 1,
+        "message": "This line has a length of 81. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 79,
         "column": 1,
         "message": "This line has a length of 84. Maximum allowed is 80."
+      },
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "max-len",
+        "line": 82,
+        "column": 1,
+        "message": "This line has a length of 83. Maximum allowed is 80."
       },
       {
         "filepath": "/src/vending-machine.js",
@@ -341,28 +488,28 @@
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "space-infix-ops",
-        "line": 29,
+        "line": 26,
         "column": 53,
         "message": "Operator '-' must be spaced."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "space-infix-ops",
-        "line": 30,
+        "line": 27,
         "column": 53,
         "message": "Operator '+' must be spaced."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "space-infix-ops",
-        "line": 32,
+        "line": 29,
         "column": 51,
         "message": "Operator '+' must be spaced."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "space-infix-ops",
-        "line": 33,
+        "line": 30,
         "column": 28,
         "message": "Operator '+' must be spaced."
       }
@@ -371,14 +518,14 @@
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "curly",
-        "line": 42,
+        "line": 39,
         "column": 40,
         "message": "Expected { after 'if' condition."
       },
       {
         "filepath": "/lib/array-utils.js",
         "ruleId": "curly",
-        "line": 46,
+        "line": 43,
         "column": 42,
         "message": "Expected { after 'if' condition."
       },
@@ -427,13 +574,22 @@
         "message": "Multiple spaces found before 'false'."
       }
     ],
-    "null": [
+    "max-params": [
       {
         "filepath": "/lib/testing-utilities.js",
-        "ruleId": null,
-        "line": 31,
-        "column": 3,
-        "message": "Parsing error: Unexpected token <<"
+        "ruleId": "max-params",
+        "line": 8,
+        "column": 23,
+        "message": "Function has too many parameters (5). Maximum allowed is 4."
+      }
+    ],
+    "prefer-const": [
+      {
+        "filepath": "/lib/testing-utilities.js",
+        "ruleId": "prefer-const",
+        "line": 56,
+        "column": 7,
+        "message": "'allReports' is never reassigned. Use 'const' instead."
       }
     ],
     "no-extra-parens": [
@@ -586,15 +742,16 @@
   "ruleIdToVoilationCount": {
     "no-implicit-globals": 4,
     "no-undef": 11,
-    "semi": 24,
-    "max-len": 8,
+    "semi": 36,
+    "max-len": 17,
     "space-infix-ops": 4,
     "curly": 4,
     "no-multi-spaces": 4,
-    "null": 1,
+    "max-params": 1,
+    "prefer-const": 1,
     "no-extra-parens": 1,
     "no-unused-vars": 1,
     "key-spacing": 18
   },
-  "totalVoilations": 80
+  "totalVoilations": 102
 }
